@@ -12,3 +12,4 @@ This project is basically based on live Facial-detection whether you are Angry, 
 # Now you need to download the given "xml" file and "H5 file"
 
 > And then give that location where you have put all these files in your code 
+5. [FAQs](#faqs)
