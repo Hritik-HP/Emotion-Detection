@@ -7,7 +7,7 @@ This project is basically based on live Facial-detection whether you are Angry, 
 * Cv2                   # pip install opencv-python <br /> <br />
 * Numpy                 # pip install numpy <br /> <br />
 * keras                 # pip install keras <br /> <br />
-* tensorflow            # pip install tensorflow <br /> <br />
+* tensorflow            # pip install tensorflow <br /> 
 
 # Now you need to download the given "xml" file and "H5 file"
 
