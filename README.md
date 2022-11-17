@@ -1,9 +1,9 @@
 # Emotion-Detection
 
-This project is basically based on live Facial-detection whether you are Angry, Sad, Fear, Surprise and more
+This project is basically based on live Facial-detection whether you are Angry, Sad, Fear, Surprise and more <br />
 
 # Libraries Used 
-> ### You need to install all the libraries on your terminal 1st
+> ### You need to install all the libraries on your terminal 1st <br />
 * Cv2                   # pip install opencv-python <br /> <br />
 * Numpy                 # pip install numpy <br /> <br />
 * keras                 # pip install keras <br /> <br />
