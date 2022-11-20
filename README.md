@@ -12,3 +12,6 @@ This project is basically based on live Facial-detection whether you are Angry, 
 # Now you need to download the given "xml" file and "H5 file"
 
 > And then give that location where you have put all these files in your code 
+
+## Convert H5 zip file into file format 
+> if you are getting any error contact me from any of above option
