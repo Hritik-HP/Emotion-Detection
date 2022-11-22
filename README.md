@@ -1,6 +1,6 @@
 # Emotion-Detection
 
-This project is basically based on live Facial-detection whether you are Angry, Sad, Fear, Surprise and more <br />
+This project is basically based on live Facial-detection whether you are Angry, Sad, Fear, Surprise and more this project let you know all your facial expression <br />
 
 # Libraries Used 
 > ### You need to install all the libraries on your terminal 1st <br />
@@ -15,5 +15,5 @@ This project is basically based on live Facial-detection whether you are Angry, 
 
 ## Convert H5 zip file into file format 
 
->> if you are unable to fetch that "H5 file" use this link to download
+>> If you are unable to fetch that "H5 file" use this link to download
  **[click here](https://drive.google.com/file/d/1EeCFVCZXA4jjEziXn64iKq3og7fLZeve/view?usp=sharing)**
